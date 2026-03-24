@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את הדרך הנכונה להשקעות למתחילים בישראל. אסטרטגיות מוכחות, ניהול עושר חכם וליווי מקצועי שיקחו את הכסף שלך לרמה הבאה. הצטרף אלינו עכשיו!
+
+### שירותים
+https://example.com/services
+מניהול תיקי השקעות ועד ייעוץ בורסאי מתקדם — השירותים שלנו מותאמים בדיוק עבורך. למד איך להשקיע בבורסה עם ליווי אישי ומקצועי שמביא תוצאות אמיתיות. גלה עוד!
+
+### אודות
+https://example.com/about
+אנחנו מאמינים שכל אחד יכול להגיע לעצמאות פיננסית. הכירו את הצוות המומחה שמוביל אלפי משקיעים בישראל עם אסטרטגיות השקעה לטווח ארוך וחזון ברור להצלחה. גלו מי אנחנו!
+
+### צור קשר
+https://example.com/contact
+רוצה להתחיל להשקיע ולא יודע מאיפה? צוות המומחים שלנו זמין עבורך עכשיו. פנה אלינו לייעוץ ראשוני בנושא השקעות למתחילים בישראל וקבל מפת דרכים אישית לחופש פיננסי.
+
+### Products
+https://example.com/products
+המוצרים שלנו - השקעות על רמה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - השקעות על רמה
+
+### Category
+https://example.com/category/:slug
+מוצרים - השקעות על רמה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
